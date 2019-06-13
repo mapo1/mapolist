@@ -1,0 +1,11 @@
+{
+    "name": "mapolist",
+    "version": "1.0.0",
+    "description": "게시판 시험",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "sehakflower4@gmail.com",
+    "license": "ISC"
+}
